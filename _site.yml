@@ -1,10 +1,11 @@
 name: "NThusiasten"
 title: "NThusiasten"
+theme: Nthusiasten.css
 description: |
   Junge Freund*innen des Nationaltheater Mannheim
 output_dir: "_site"
 navbar:
-  logo: Website Test/nthusiastenLogoIcon.png
+  logo: "nthusiastenLogoIcon.png"
   href: https://nthusiasten.de
   right:
     - text: "Heimat"
@@ -35,3 +36,9 @@ navbar:
 output: 
   distill::distill_article:
     toc: true
+cookie_consent:
+  style: simple
+  type: express
+  palette: light
+  lang: en
+  cookies_policy: url

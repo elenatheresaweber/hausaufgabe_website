@@ -1,7 +1,15 @@
 ---
 title: "NThusiasten"
-description: |
-  Junge Freund*innen des Nationaltheater Mannheim
+image: "Screenshot_20210615_111455.jpg"
+links:
+  - label: Instagram
+    url: "https://www.instagram.com/nthusiasten.ntm/"
+  - label: Facebook
+    url: "https://de-de.facebook.com/NThusiastenMannheim"
+  - label: Twitter
+    url: "https://twitter.com/nthusiasten?lang=en"
+ouput:
+  postcards::jolla
 site: distill::distill_website
 ---
 
@@ -14,3 +22,19 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Herzlich Willkommen bei den NThusiasten!
+Ist das NTM eine Heimat?
+
+Was macht einen guten Abend aus?
+
+Natürlich lebt das Theater vom tollen Schauspiel, Stimmen und Texten, aber was macht das eigentliche Erlebnis aus?
+
+Es ist sich mit den Freund*innen zum Vortrinken zu treffen, um dann verspätet in die Vorstellung zu kommen, weil vor lauter lauter die Bahn verpasst wurde.
+
+Es ist in den Aufführungspausen einen Ureich zu trinken und über die Inhalte zu reden, als hätten wir sie studiert.
+
+Lasst uns gemeinsam den Ball ins Rollen bringen für ein offenes NTM.
+
+Mittendrin statt nur dabei.
+
+# Verpass ja nicht das Neueste
+17.06. Public Viewing der Schillertage bei Cafe Engel 

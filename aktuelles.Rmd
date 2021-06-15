@@ -1,0 +1,18 @@
+---
+title: "Aktuelles"
+image: "WhatsApp Image 2021-06-15 at 11.52.22"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Instagram
+    url: "https://www.instagram.com/nthusiasten.ntm/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Facebook
+    url: "https://de-de.facebook.com/NThusiastenMannheim"
+output:
+  postcards::onofre
+---
+ 
+Was gibt es aktuelles bei uns? Damit du nichts verpasst kannst du uns auf allen Social Media Kanälen abbonieren und bist immer up-to-date!

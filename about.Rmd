@@ -8,6 +8,16 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Das immer wiederkehrende Gefühl des Unwohlseins am Theater hat uns alle irgendwann aus unterschiedlichen Gründen eingeholt.
+
+Ob es daran lag, dass wir einer der wenigen jungen Menschen im Publikum waren oder dass wir am Theater durch Blicke und Taten diskriminiert wurden.
+
+Wir wissen, es geht auch anders, wegen der Freundschaften, die wir bei einer trocken Brezel während den Aufführungspausen, geschlossen haben.
+
+Wir wollen mit euch das Unwohlsein durch Respekt und Heimat ersetzen.
+
+Come as you are.
+
 # WORIN SEHEN WIR UNSERE AUFGABE ALS NTHUSIASTEN?
 
 ## Heimat
