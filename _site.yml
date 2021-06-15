@@ -1,0 +1,37 @@
+name: "NThusiasten"
+title: "NThusiasten"
+description: |
+  Junge Freund*innen des Nationaltheater Mannheim
+output_dir: "_site"
+navbar:
+  logo: Website Test/nthusiastenLogoIcon.png
+  href: https://nthusiasten.de
+  right:
+    - text: "Heimat"
+      href: index.html
+    - text: "Wer wir sind"
+      href: about.html
+    - text: "Aktuelles"
+      href: aktuelles.html
+      menu:
+        - text: "Veranstaltungen"
+          href: veranstaltungen.html
+        - text: "Hinter den Kulissen"
+          href: behind.html
+    - text: "Erinnerungen"
+      href: visualizations.html
+      menu:
+        - text: "Gallery"
+          href: gallery.html
+        - text: "Throwbacks"
+          href: throwbacks.html
+    - text: "Werde Teil von uns"
+      href: mitgliedschaft.html
+    - icon: fab fa-instagram
+      href: https://www.instagram.com/nthusiasten.ntm/
+    - icon: fab fa-facebook
+      href: https://de-de.facebook.com/NThusiastenMannheim
+  search: true
+output: 
+  distill::distill_article:
+    toc: true

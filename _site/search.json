@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Wer wir sind",
+      "description": "Eine Heimat im Theater - Lebendiges Theater, in dem du dich respektiert, geschätzt und zuhause fühlst, für das, was du bist - ganz gleich, wer du bist.",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nWORIN SEHEN WIR UNSERE AUFGABE ALS NTHUSIASTEN?Heimat\r\nVertretung\r\nWerben\r\n\r\n\r\nWORIN SEHEN WIR UNSERE AUFGABE ALS NTHUSIASTEN?\r\nHeimat\r\nNTM als Sozialisationsraum mitgestalten\r\nVertretung\r\nHerausforderungen der jungen Stadtgesellschaft im NTM repräsentieren\r\nWerben\r\nFür bestehende Formate werben\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-15T10:47:28+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "NThusiasten",
+      "description": "Junge Freund*innen des Nationaltheater Mannheim\n",
+      "author": [],
+      "contents": "\r\n\r\nContents\r\nHerzlich Willkommen bei den NThusiasten!\r\n\r\nHerzlich Willkommen bei den NThusiasten!\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-15T10:47:30+02:00"
+    }
+  ],
+  "collections": []
+}
