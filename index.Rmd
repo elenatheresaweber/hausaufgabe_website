@@ -24,6 +24,8 @@ knitr::opts_chunk$set(echo = FALSE)
 # Herzlich Willkommen bei den NThusiasten!
 Ist das NTM eine Heimat?
 
+![](C:\Users\pc\Dropbox\Mein PC (DESKTOP-M4FJMRL)\Desktop\Website Test/ntm.jpg)
+
 Was macht einen guten Abend aus?
 
 Natürlich lebt das Theater vom tollen Schauspiel, Stimmen und Texten, aber was macht das eigentliche Erlebnis aus?

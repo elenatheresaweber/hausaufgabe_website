@@ -8,6 +8,8 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![Das sind wir](C:\Users\pc\Dropbox\Mein PC (DESKTOP-M4FJMRL)\Desktop\Website Test/WhatsApp Image 2021-06-15 at 11.52.22.jpeg)
+
 Das immer wiederkehrende Gefühl des Unwohlseins am Theater hat uns alle irgendwann aus unterschiedlichen Gründen eingeholt.
 
 Ob es daran lag, dass wir einer der wenigen jungen Menschen im Publikum waren oder dass wir am Theater durch Blicke und Taten diskriminiert wurden.

@@ -1,0 +1,14 @@
+---
+title: "Veranstaltungen"
+description: |
+  Hier findest du unsere Veranstaltungen und Veranstaltungen vom Nationaltheater, welche wir besuchen werden.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Schillertage 2021
+## DRINNEN DRAUSSEN ONLINE! 
+Hier findet ihr einen Überblick zu den Schillertagen - wir sind am Start, und ihr? 
+https://www.nationaltheater-mannheim.de/de/schillertage/schillertage_2021.php
