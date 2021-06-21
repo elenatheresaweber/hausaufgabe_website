@@ -1,0 +1,9 @@
+---
+title: "Gallerie"
+description: |
+  Viele tolle aufgenommene Momente. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

@@ -1,0 +1,9 @@
+---
+title: "Erinnerungen"
+description: |
+  Wir haben schöne Momente erlebt, die wir hier gerne wieder-be/er-leben. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

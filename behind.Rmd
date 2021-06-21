@@ -1,0 +1,9 @@
+---
+title: "Hinter den Kulissen"
+description: |
+  Wir möchten so viel Transparenz wie nur möglich bieten - schau dich gerne bei unserer Arbeit um. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
